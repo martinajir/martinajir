@@ -2,6 +2,7 @@
 
 - 💻 Currently onboarding as a Software Engineer @ GitHub
 - 🌱 Starting out with TypeScript after being confined to Java 8 for 4 years
+- 📖 Currently reading the *Silo* trilogy by Hugh Howey
 
 ## About me
 - 🍵 🧋 Tea enjoyer
