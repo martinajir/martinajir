@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi! 👋
 
+- 💻 Currently onboarding as a Software Engineer @ GitHub
+- 🌱 Starting out with TypeScript after being confined to Java 8 for 4 years
+
+## About me
+- 🍵 🧋 Tea enjoyer
+- 🎹 🎸🎮 Player
+- 🎲 Dice roller
 <!--
 **martinajir/martinajir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
