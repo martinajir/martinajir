@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-- 💻 Currently onboarding as a Software Engineer @ GitHub
+- 💻 Currently working as a Software Engineer @ GitHub Notifications Integrations
 - 🌱 Ruby
 - 📖 Currently reading *Source code* by Bill Gates
 
